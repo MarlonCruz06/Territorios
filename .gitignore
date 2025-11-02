@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+*.exe
+*.o
+*.obj
+
+# Editor files
+*.swp
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
